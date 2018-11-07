@@ -1,0 +1,105 @@
+﻿body {
+    background-color: #00408e
+}
+.sidenav {
+    height: 100%;
+    width: 22%;
+    top: 0;
+    left: 0;
+    background-color: black;
+    padding-top: 50px;
+ 
+}
+
+.sidenav a {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-decoration: none;
+    font-size: 20px;
+    display: block;
+    transition: 0.3s;
+}
+
+.sideNavColor{
+    color: white;
+}
+
+.sidenav li{
+    list-style: none;
+}
+
+.sideNavBorders {
+    border: solid 2px;
+    border-color: white;
+    margin-top: 5%;
+    margin-right: 3%;
+    margin-left: -5%;
+    padding-left: 10%;
+}
+
+.sidenav a:hover {
+    color: #00408e;
+}
+
+.signInColor{
+    color: #ffd800;
+    font-weight: 600;
+    z-index: 2;
+}
+.signOutColor {
+    color: #ffd800;
+    font-weight: 600;
+    z-index: 2;
+}
+
+.signImg {
+    z-index: 1;
+    position: absolute;
+    margin-top: 388px;
+    width: 30%;
+}
+
+.headerImg1{
+    width: 100%;
+    z-index: -1;
+    height: 440px;
+}
+
+.headerImg2 {
+    width: 100%;
+    z-index: -1;
+    height: 440px;
+}
+
+section2IMG{
+    width: 100%;
+    z-index: -1;
+}
+
+.section2ImgSIGN{
+    width: 30%;
+    position: absolute;
+    right: 0;
+    margin-top: 30%;
+}
+
+.section3img{
+    position: absolute;
+    margin-top: -10%;
+}
+
+.section3TEXTS{
+    position: absolute;
+    z-index: 1;
+    color: black;
+}
+
+.section3TITLES{
+    margin-top: -8%;
+    margin-left: 3%;
+    font-size: 5rem;
+}
+
+.section3Cards{
+    z-index: 1;
+}
