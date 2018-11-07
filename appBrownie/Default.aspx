@@ -84,8 +84,8 @@
                 <h2 class="section3TITLES section3TEXTS">OFFICIAL PRODUCTS</h2>
                 <div class="row">
                     <div class="col-lg-4 col-md-4 section3Cards">
-                        <div class="card">
-                          <img class="card-img-top" src="" alt="Card image"/>
+                        <div class="card ml-5">
+                          <img class="card-img-top" src="assets/img/brownie2.jpg" alt="Card image"/>
                           <div class="card-body">
                             <h4 class="card-title">NAME</h4>
                             <p class="card-text">$PRICE</p>
@@ -94,8 +94,8 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 section3Cards">
-                        <div class="card">
-                          <img class="card-img-top" src="" alt="Card image"/>
+                        <div class="card ml-5">
+                          <img class="card-img-top" src="assets/img/brownie2.jpg" alt="Card image"/>
                           <div class="card-body">
                             <h4 class="card-title">NAME</h4>
                             <p class="card-text">$PRICE</p>
@@ -104,8 +104,8 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 section3Cards">
-                        <div class="card">
-                          <img class="card-img-top" src="" alt="Card image"/>
+                        <div class="card ml-5">
+                          <img class="card-img-top" src="assets/img/brownie2.jpg" alt="Card image"/>
                           <div class="card-body">
                             <h4 class="card-title">NAME</h4>
                             <p class="card-text">$PRICE</p>
@@ -116,10 +116,127 @@
             </div>
              </div>
                 </div>
+
+            <div class="row">
+                <div class="col section3SubTexts">
+                    <h2 class="section3SubTitles">MORE PRODUCTS</h2>
+                </div>
+                <img src="assets/img/flecha.png" class="img-fluid moreProductsIMG" />
+            </div>
         </section>
         
+        <section>
+            <div class="row">
+                <div class="col">
+                    <h1 class="ServicesText">SERVICES</h1>
+                </div>
+                <div class="col">
 
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-6 mt-5">
+                    <p class="text-white servicesText2 ml-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p class="text-white servicesText2 ml-5">Vivamus at orci eget lectus placerat vestibulum. Donec et semper est. <br /> Etiam auctor mollis bibendum. 
+                        Sed porta venenatis cursus. Fusce finibus <br /> auctor sapien, quis lobortis ligula. Fusce euismod orci risus, 
+                        quis aliquam <br /> ipsum scelerisque posuere. Quisque tincidunt, nulla id posuere volutpat</p>
+                    <br />
+                    <p class="text-white servicesText2 ml-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p class="text-white servicesText2 ml-5">Vivamus at orci eget lectus placerat vestibulum. Donec et semper est. <br /> Etiam auctor mollis bibendum. 
+                        Sed porta venenatis cursus. Fusce finibus <br /> auctor sapien, quis lobortis ligula. Fusce euismod orci risus, 
+                        quis aliquam <br /> ipsum scelerisque posuere. Quisque tincidunt, nulla id posuere volutpat</p>
+
+                    <ul class="text-white mt-5 ml-5 servidesList">
+                        <li class="">
+                            <a>Animations</a>
+                        </li>
+                        <li class="pt-4">
+                            <a>Apps / Games</a>
+                        </li>
+                        <li class="pt-4">
+                            <a>Web Sites</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-6 mt-5">
+                    <img src="assets/img/brownie2.jpg" class="img-fluid w-75" />
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <footer class="bg-dark mt-5 text-white">
+                <div class="row">
+                    <div class="col mt-4">
+                        <div class="row">
+                            <div class="col">
+                                <img src="assets/img/INDEX.png" class="img-fluid ml-5" /> <%--LOGO DE BROWNIE--%>
+                            </div>
+                            <div class="col">
+                                <h4 class="">BROWNIE</h4>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col">
+                                <img src="assets/img/Sgn1.png" class="img-fluid w-50" /> <%--LOGO DE project sign--%>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col mt-4">
+                        <h3>SITE INFO</h3>
+                        <ul class="footerLists">
+                            <li>
+                                <a href="#">STORE</a>
+                            </li>
+                            <li>
+                                <a href="#">ABOUT BROWNIE</a>
+                            </li>
+                            <li>
+                                <a href="#">ABOUT PSIGN</a>
+                            </li>
+                            <li>
+                                <a href="#">SERVICES CONTACT</a>
+                            </li>
+                            <li>
+                                <a href="#">TERMS OF USE</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col mt-4">
+                        <h3>CUSTOMER SERVICE</h3>
+                        <ul class="footerLists">
+                            <li>
+                                <a href="#">SHIPPING</a>
+                            </li>
+                            <li>
+                                <a href="#">RETURN POLICY</a>
+                            </li>
+                            <li>
+                                <a href="#">SERVICES POLICY</a>
+                            </li>
+                            <li>
+                                <a href="#">CONTACT US</a>
+                            </li>
+                            <li>
+                                <a href="#">ORDER STATUS</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col mt-4">
+                        <h3>SOCIAL</h3>
+
+                    </div>
+                </div>
+            </footer>
+        </section>
         
+        <section>
+            <div class="row">
+                <div class="col bg-white text-center">
+                    <p class="mt-2 registeredMark">THIS SITE AND PROJECT SIGN ARE PROPERTY AND A REGISTERED MARK OF BROWNIE</p>
+                </div>
+            </div>
+        </section>
     </form>
 </body>
 </html>

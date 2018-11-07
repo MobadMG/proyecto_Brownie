@@ -86,7 +86,7 @@ section2IMG{
 
 .section3img{
     position: absolute;
-    margin-top: -5%;
+    margin-top: -10%;
 }
 
 .section3TEXTS{
@@ -96,17 +96,65 @@ section2IMG{
 }
 
 .section3TITLES{
-    margin-top: -3%;
+    margin-top: -8%;
     margin-left: 3%;
     font-size: 5rem;
 }
 
 .section3Cards{
     z-index: 1;
-    
+   
 }
 
 .card{
-    height:200px;
+    height:400px;
     margin-top: 20%;
+    width: 80%;
 }
+
+.section3SubTexts {
+    position: absolute;
+    z-index: 2;
+    color: white;
+}
+
+.section3SubTitles {
+    font-size: 3rem;
+    margin-left: 65%;
+    margin-top: 48%;
+}
+
+.moreProductsIMG{
+    position:absolute;
+    z-index: 1;
+    margin-left: 63%;
+    margin-top:46%;
+    width: 33%;
+}
+
+.ServicesText{
+    position: relative;
+    margin-top: 95%;
+    margin-left: 10%;
+    color: white;
+    font-size: 5rem;
+}
+
+.servicesText2{
+    font-size: 18px;
+}
+
+.servidesList {
+    list-style: none;
+    font-size: 25px;
+}
+
+.footerLists {
+    list-style: none;
+}
+
+.registeredMark{
+    font-size: 20px;
+    font-weight: 900;
+}
+
