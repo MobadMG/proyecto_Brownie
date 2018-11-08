@@ -15,7 +15,6 @@
 <body>
     <form id="form1" runat="server">
         
-
         <section>
             <img src="assets/img/SIGNUPIN.png" class="img-fluid signImg" />
         <div class="row ">
@@ -31,16 +30,16 @@
                 </div>
                 <ul>
                     <li class="sideNavBorders">
-                        <a class="sideNavColor" href="#">STORE</a>
+                        <a class="sideNavColor" href="Store.aspx">STORE</a>
                     </li>
                     <li class="sideNavBorders">
-                        <a class="sideNavColor" href="#">SERVICES</a>
+                        <a class="sideNavColor" href="Services.aspx">SERVICES</a>
                     </li>
                     <li class="sideNavBorders">
-                        <a class="sideNavColor" href="#">GAMES</a>
+                        <a class="sideNavColor" href="Games.aspx">GAMES</a>
                     </li>
                     <li class="sideNavBorders">
-                        <a class="sideNavColor" href="#">ABOUT</a>
+                        <a class="sideNavColor" href="About.aspx">ABOUT</a>
                     </li>
                 </ul>
                 <div class="row">

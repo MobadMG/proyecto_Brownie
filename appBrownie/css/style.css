@@ -158,3 +158,17 @@ section2IMG{
     font-weight: 900;
 }
 
+.StoreNav{
+    list-style: none;
+    display: inline-flex;
+}
+
+.StoreNavBG{
+    background-color: #001567;
+}
+
+.StorePsBorder{
+    border: solid;
+    border-color: black;
+    border-radius: 10px;
+}
