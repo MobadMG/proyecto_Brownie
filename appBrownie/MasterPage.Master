@@ -19,19 +19,22 @@
     <form id="form1" runat="server">
 
         
-            <nav class="navbar bg-dark navbar-expand-lg navbar-dark">
+            <nav class="navbar normalNavBG navbar-expand-lg">
                <img src="assets/img/INDEX.png" class="img-fluid" /> <%--LOGO DE BROWNIE--%>
-               <a href="Default.aspx" class="navbar-brand">Brownie</a>
+               <a href="Default.aspx" class="navbar-brand text-white">CleverWolves</a>
 
-               <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Services</a>
+               <ul class="navbar-nav p-3">
+                   <li class="nav-item">
+                        <a class="nav-link text-white pl-5" href="#">Store</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Games</a>
+                        <a class="nav-link text-white pl-5" href="Services.aspx">Services</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">About</a>
+                        <a class="nav-link text-white pl-5" href="Games.aspx">Games</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white pl-5" href="#">About</a>
                     </li>
               </ul>
             </nav>
@@ -51,7 +54,7 @@
                                 <img src="assets/img/INDEX.png" class="img-fluid ml-5" /> <%--LOGO DE BROWNIE--%>
                             </div>
                             <div class="col">
-                                <h4 class="">BROWNIE</h4>
+                                <h4 class="">CleverWolves</h4>
                             </div>
                         </div>
                         <div class="row">
@@ -62,41 +65,41 @@
                     </div>
                     <div class="col">
                         <h3>SITE INFO</h3>
-                        <ul>
+                        <ul class="footerLists">
                             <li>
-                                <a href="#">STORE</a>
+                                <a href="#" class="text-white">STORE</a>
                             </li>
                             <li>
-                                <a href="#">ABOUT BROWNIE</a>
+                                <a href="#" class="text-white">ABOUT BROWNIE</a>
                             </li>
                             <li>
-                                <a href="#">ABOUT PSIGN</a>
+                                <a href="#" class="text-white">ABOUT PSIGN</a>
                             </li>
                             <li>
-                                <a href="#">SERVICES CONTACT</a>
+                                <a href="#" class="text-white">SERVICES CONTACT</a>
                             </li>
                             <li>
-                                <a href="#">TERMS OF USE</a>
+                                <a href="#" class="text-white">TERMS OF USE</a>
                             </li>
                         </ul>
                     </div>
                     <div class="col">
                         <h3>CUSTOMER SERVICE</h3>
-                        <ul>
+                        <ul class="footerLists">
                             <li>
-                                <a href="#">SHIPPING</a>
+                                <a href="#" class="text-white">SHIPPING</a>
                             </li>
                             <li>
-                                <a href="#">RETURN POLICY</a>
+                                <a href="#" class="text-white">RETURN POLICY</a>
                             </li>
                             <li>
-                                <a href="#">SERVICES POLICY</a>
+                                <a href="#" class="text-white">SERVICES POLICY</a>
                             </li>
                             <li>
-                                <a href="#">CONTACT US</a>
+                                <a href="#" class="text-white">CONTACT US</a>
                             </li>
                             <li>
-                                <a href="#">ORDER STATUS</a>
+                                <a href="#" class="text-white">ORDER STATUS</a>
                             </li>
                         </ul>
                     </div>

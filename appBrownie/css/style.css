@@ -8,7 +8,6 @@
     left: 0;
     background-color: black;
     padding-top: 50px;
- 
 }
 
 .sidenav a {
@@ -39,6 +38,11 @@
 
 .sidenav a:hover {
     color: #00408e;
+}
+
+.normalNavBG{
+    background-color: black;
+    color: white;
 }
 
 .signInColor{
@@ -103,7 +107,6 @@ section2IMG{
 
 .section3Cards{
     z-index: 1;
-   
 }
 
 .card{
